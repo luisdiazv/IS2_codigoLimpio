@@ -88,7 +88,7 @@ class CalculadorEnvio:
 
 
 #-------------------------------------------------------------------------------
-# main de la modulo de Python
+# main del modulo de Python
 if __name__ == "__main__":
     def solicitar_valor(mensaje):
         while True:
